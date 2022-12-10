@@ -9,6 +9,10 @@
 - I learn to use comments more efficiently and to use the proper tags element on HTML file.
 - Learned new ways to style the page and elements.
 
+## Screenshots
+
+![App Screenshot](./assets/images/Horiseon_Website.png)
+
 ## Authors
 
 - [@Constantin-E-T](https://github.com/Constantin-E-T/)
