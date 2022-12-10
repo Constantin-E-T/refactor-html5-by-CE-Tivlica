@@ -1,5 +1,6 @@
 # refactor-html5-by-CE-Tivlica
-https://constantin-e-t.github.io/refactor-html5-by-CE-Tivlica/
+
+<https://constantin-e-t.github.io/refactor-html5-by-CE-Tivlica/>
 
 ## Description
 
@@ -15,7 +16,6 @@ https://constantin-e-t.github.io/refactor-html5-by-CE-Tivlica/
 ## 🛠 Skills
 
 Javascript, HTML, CSS, Python, Django
-
 
 ## Badges
 
